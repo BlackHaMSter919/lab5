@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MusicBandCollectionWrapper>
+    <MusicBand>
+        <id>1</id>
+        <name>Rock_group</name>
+        <coordinates>
+            <x>20.0</x>
+            <y>50.0</y>
+        </coordinates>
+        <creationDate>2025-02-18T14:35:53.5040551+03:00[Europe/Moscow]</creationDate>
+        <numberOfParticipants>3</numberOfParticipants>
+        <albumsCount>5</albumsCount>
+        <description>THE BEST ROCK GROUP IN THE WORLD</description>
+        <genre>PROGRESSIVE_ROCK</genre>
+        <bestAlbum>
+            <name>Rook_album</name>
+            <sales>1234.0</sales>
+            <tracks>15</tracks>
+        </bestAlbum>
+    </MusicBand>
+    <MusicBand>
+        <id>2</id>
+        <name>Blues_group</name>
+        <coordinates>
+            <x>4.0</x>
+            <y>8.0</y>
+        </coordinates>
+        <creationDate>2025-02-18T14:36:26.4861547+03:00[Europe/Moscow]</creationDate>
+        <numberOfParticipants>5</numberOfParticipants>
+        <albumsCount>20</albumsCount>
+        <description>typical blues group, nothing unusual</description>
+        <genre>BLUES</genre>
+        <bestAlbum>
+            <name>Blues_album</name>
+            <sales>3.0</sales>
+            <tracks>8</tracks>
+        </bestAlbum>
+    </MusicBand>
+    <MusicBand>
+        <id>3</id>
+        <name>Hip_hop_group</name>
+        <coordinates>
+            <x>150.0</x>
+            <y>89.0</y>
+        </coordinates>
+        <creationDate>2025-02-18T14:36:26.4861547+03:00[Europe/Moscow]</creationDate>
+        <numberOfParticipants>15</numberOfParticipants>
+        <albumsCount>3</albumsCount>
+        <description>unusual hip hop group, there are only a few of them</description>
+        <genre>HIP_HOP</genre>
+        <bestAlbum>
+            <name>Hip_hop_album</name>
+            <sales>1.0</sales>
+            <tracks>140</tracks>
+        </bestAlbum>
+    </MusicBand>
+
+</MusicBandCollectionWrapper>
