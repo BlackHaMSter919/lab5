@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MusicBandCollectionWrapper>
+    <MusicBand>
+        <id>1</id>
+        <name>YEE_ROCK</name>
+        <coordinates>
+            <x>1.0</x>
+            <y>6.0</y>
+        </coordinates>
+        <creationDate>2025-03-19T15:37:47.6608418+03:00[Europe/Moscow]</creationDate>
+        <numberOfParticipants>4</numberOfParticipants>
+        <albumsCount>6</albumsCount>
+        <description>YEE_ROCK COLL IDK</description>
+        <genre>PROGRESSIVE_ROCK</genre>
+        <bestAlbum>
+            <name>YEAH_ROCK</name>
+            <sales>15.0</sales>
+            <tracks>7</tracks>
+        </bestAlbum>
+    </MusicBand>
+    <MusicBand>
+        <id>2</id>
+        <name>THE_BLUES</name>
+        <coordinates>
+            <x>5.0</x>
+            <y>21.0</y>
+        </coordinates>
+        <creationDate>2025-03-19T15:56:52.8521923+03:00[Europe/Moscow]</creationDate>
+        <numberOfParticipants>21</numberOfParticipants>
+        <albumsCount>50</albumsCount>
+        <description>THE BLUES GUYS</description>
+        <genre>BLUES</genre>
+        <bestAlbum>
+            <name>SIMPLE BLUES</name>
+            <sales>2.0</sales>
+            <tracks>36</tracks>
+        </bestAlbum>
+    </MusicBand>
+    <MusicBand>
+        <id>3</id>
+        <name>HIP_HOP_YO</name>
+        <coordinates>
+            <x>15.0</x>
+            <y>203.0</y>
+        </coordinates>
+        <creationDate>2025-03-19T15:36:37.2581981+03:00[Europe/Moscow]</creationDate>
+        <numberOfParticipants>7</numberOfParticipants>
+        <albumsCount>9</albumsCount>
+        <description>HIP_HOP JUST DANCE</description>
+        <genre>HIP_HOP</genre>
+        <bestAlbum>
+            <name>AMAZING HIP_HOP</name>
+            <sales>6.0</sales>
+            <tracks>2</tracks>
+        </bestAlbum>
+    </MusicBand>
+</MusicBandCollectionWrapper>

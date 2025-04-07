@@ -1,0 +1,1 @@
+execute_script C:\itmo\s368999\lab_5\src\main\java\Main\Script2
